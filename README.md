@@ -32,6 +32,7 @@ Eager to contribute to dynamic projects, and collaborate within a supportive tea
 ### :fire: My Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=OleksandrOsypenko89&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrOsypenko89&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
