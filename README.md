@@ -2,7 +2,7 @@
 I am a Java developer with experience in project development and problem solving using Java, Spring, and SQL. I have a passion<br>for coding and a solid foundation in Java programming. I have a strong understanding of object-oriented principles and a keen eye<br>for writing clean, efficient, and maintainable code.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleksandr-osypenko-8a4933243/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-osypenko-8a4933243/) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
