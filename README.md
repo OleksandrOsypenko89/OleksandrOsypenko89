@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Java developer with experience in project development and problem solving using Java, Spring, and SQL. I have a passion<br>for coding and a solid foundation in Java programming. I have a strong understanding of object-oriented principles and a keen eye<br>for writing clean, efficient, and maintainable code.
+I'm a Full Stack Developer with experience in developing and maintaining web projects that includes the use of Java, Spring, React, and SQL. My passion for programming is backed by a strong foundation in Java development and a deep understanding of object-oriented principles. I'm always eager to learn new technologies, tools, and approaches that help create efficient, clean, and maintainable code. I have experience in solving complex problems and implementing innovative solutions that contribute to the success of projects. I am eager for professional growth and ready for new challenges in a dynamic environment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-osypenko-8a4933243/) 
