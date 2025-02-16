@@ -1,9 +1,6 @@
 # 💫 About Me:
 I'm a Java Developer with experience in developing and maintaining web applications using Java, Spring Framework, and SQL. I am passionate about creating efficient, clean, and maintainable code. My problem-solving skills and eagerness to learn new technologies make me a valuable team player ready to take on challenging projects.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-osypenko-8a4933243/) 
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -22,8 +19,6 @@ I'm a Java Developer with experience in developing and maintaining web applicati
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OleksandrOsypenko89&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OleksandrOsypenko89&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrOsypenko89&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
